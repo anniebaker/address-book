@@ -46,6 +46,7 @@ const createDom = (name, image, moreInfo, key) => {
         <p id="${key}">
         </div>
       </div>
+      <br>
     `;
   x++;
 };
